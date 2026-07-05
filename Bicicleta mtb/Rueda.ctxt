@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rueda
+comment1.params=marca\ material\ tipoInflado\ tama\u00F1oLlanta\ anchoExterior\ tubeless
+comment1.target=Rueda(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=tubeless
+comment2.target=boolean\ tube(java.lang.String)
+numComments=3

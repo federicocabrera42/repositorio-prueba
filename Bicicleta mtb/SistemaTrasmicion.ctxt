@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SistemaTrasmicion
+comment1.params=velocidad
+comment1.target=SistemaTrasmicion(int)
+comment2.params=accionShifter
+comment2.target=int\ bajarCaja(int)
+comment3.params=accionShifter
+comment3.target=int\ subirCaja(int)
+comment4.params=
+comment4.target=java.lang.String\ estado()
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Jul 05 16:34:44 CLT 2026
+comment0.target=Aro
+comment1.params=marca material tipoInflado tama\u00F1oLlanta anchoExterior agujeros anchoInterior tubeless
+comment1.target=Aro(java.lang.String, java.lang.String, java.lang.String, int, int, int, int, java.lang.String)
+comment2.target=int getTama\u00F1oAros()
+numComments=3

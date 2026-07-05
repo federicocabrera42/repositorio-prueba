@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Suspencion
+comment1.params=marca\ bloqueo\ tipoSuspencion\ recorrido\ diametroBarra\ sag
+comment1.target=Suspencion(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+numComments=2

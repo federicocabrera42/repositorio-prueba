@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Jul 05 18:06:46 CLT 2026
+comment0.target=Cuadro
+comment1.params=marca talla tipoEje tipoPedalier anchoCaja tipoAnclajeSusTracera recorridoTracero tama\u00F1oEje tama\u00F1oAros diametroTuboSillin tama\u00F1oTuboDireccion diametroTuboDireccionBajo diametroTuboDireccionArriba
+comment1.target=Cuadro(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, int, int, double, double, double, double)
+comment2.target=void tuboDireccion()
+comment3.target=java.lang.String estado()
+numComments=4

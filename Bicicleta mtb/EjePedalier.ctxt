@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EjePedalier
+comment1.params=marca\ material\ tipoPedalier\ montaje\ diametroEje\ anchoCaja
+comment1.target=EjePedalier(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MaceroTracero
+comment1.params=tipoDisco\ marca\ tipoGiro\ agujeros\ tama\u00F1oEje\ acoplePi\u00F1on
+comment1.target=MaceroTracero(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ TipoEje()
+comment3.params=
+comment3.target=java.lang.String\ Especificaciones()
+numComments=4

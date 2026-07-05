@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Jul 05 16:54:23 CLT 2026
+comment0.target=Stem
+comment1.params=diametroTuboDireccion diametroManillar medidaTuboManillar material
+comment1.target=Stem(double, double, double, java.lang.String)
+comment2.target=java.lang.String tama\u00F1o()
+comment3.target=java.lang.String estado()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PastillasFreno
+comment1.params=marca\ material
+comment1.target=PastillasFreno(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ usos()
+comment3.params=disco\ KM_andados
+comment3.target=void\ Desgastar(Disco,\ int)
+comment4.params=
+comment4.target=java.lang.String\ estado()
+comment5.params=
+comment5.target=java.lang.String\ Especificaciones()
+numComments=6

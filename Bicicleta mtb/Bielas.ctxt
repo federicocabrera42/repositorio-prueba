@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Bielas
+comment1.params=marca\ material\ tama\u00F1oBrazos\ tama\u00F1oEje\ numeroPlatos\ montajePlato
+comment1.target=Bielas(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+numComments=2

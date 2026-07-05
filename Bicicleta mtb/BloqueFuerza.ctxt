@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BloqueFuerza
+comment1.params=marca\ material
+comment1.target=BloqueFuerza(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ lleno()
+comment3.params=
+comment3.target=boolean\ compatible()
+comment4.params=
+comment4.target=java.lang.String\ mensaje()
+comment5.params=platos
+comment5.target=java.lang.String\ agregarPlatos(Platos)
+comment6.params=
+comment6.target=java.lang.String\ estado()
+numComments=7

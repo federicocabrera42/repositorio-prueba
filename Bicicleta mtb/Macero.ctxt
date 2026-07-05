@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Macero
+comment1.params=tipoDisco\ marca\ tipoGiro\ agujeros\ tama\u00F1oEje
+comment1.target=Macero(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ TipoEje()
+comment3.params=disco
+comment3.target=java.lang.String\ compatible(Disco)
+comment4.params=disco
+comment4.target=java.lang.String\ Especificaciones(Disco)
+numComments=5

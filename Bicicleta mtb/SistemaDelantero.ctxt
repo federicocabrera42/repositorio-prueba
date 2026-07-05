@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Jul 05 18:11:12 CLT 2026
+comment0.target=SistemaDelantero
+comment1.target=java.lang.String getDireccion()
+comment2.target=java.lang.String compatibleStemHorquilla()
+comment3.target=java.lang.String compatibleStemManillar()
+comment4.target=java.lang.String manillarLleno()
+comment5.target=java.lang.String estado()
+numComments=6

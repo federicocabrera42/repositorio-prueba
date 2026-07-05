@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Jul 05 16:35:36 CLT 2026
+comment0.target=SistemaRodamiento
+comment1.params=liquidoTubeless
+comment1.target=SistemaRodamiento(java.lang.String)
+comment2.params=liquidoTubeless
+comment2.target=boolean liquido(java.lang.String)
+comment3.target=int getTama\u00F1oAros()
+comment4.target=java.lang.String compatibleLA()
+numComments=5

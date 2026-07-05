@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sun Jul 05 17:03:44 CLT 2026
+comment0.target=Horquilla
+comment1.params=marca bloqueo tipoSuspencion recorrido diametroBarra sag tieneTubo eje ajusteRecorrido tama\u00F1oTuboDireccion diametroTuboDireccionArriba diametroTuboDireccionBajo
+comment1.target=Horquilla(java.lang.String, java.lang.String, java.lang.String, int, int, int, java.lang.String, java.lang.String, int, int, double, double)
+comment2.target=void TipoTuboDireccion()
+comment3.params=eje
+comment3.target=java.lang.String especificacionesEje(java.lang.String)
+comment4.params=respuesta
+comment4.target=boolean tubo(java.lang.String)
+numComments=5

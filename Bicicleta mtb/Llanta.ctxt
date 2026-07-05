@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Llanta
+comment1.params=marca\ material\ tipoInflado\ tama\u00F1oLlanta\ anchoExterior\ tubeless\ anchoLlanta\ estilo
+comment1.target=Llanta(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ int,\ java.lang.String)
+numComments=2

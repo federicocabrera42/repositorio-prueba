@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Pedales
+comment1.params=marca\ material\ tipo
+comment1.target=Pedales(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

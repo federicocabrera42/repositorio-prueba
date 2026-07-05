@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Maneta
+comment1.params=marca\ aceite\ longitud\ ajuste\ tipoTecnologia\ integracion
+comment1.target=Maneta(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ integrado()
+comment3.params=
+comment3.target=java.lang.String\ Especificaciones()
+numComments=4

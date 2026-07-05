@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Disco
+comment1.params=tama\u00F1o\ marca\ material\ tipoAcople\ espesor
+comment1.target=Disco(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTipoAcople()
+comment3.params=uso
+comment3.target=void\ desgasteFrenado(double)
+comment4.params=
+comment4.target=java.lang.String\ estado()
+comment5.params=
+comment5.target=java.lang.String\ Especificaciones()
+numComments=6

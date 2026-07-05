@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SistemaFrenado
+comment1.params=marca\ aceite
+comment1.target=SistemaFrenado(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=
+comment3.target=java.lang.String\ getAceite()
+comment4.params=pastilla
+comment4.target=java.lang.String\ freno(PastillasFreno)
+comment5.params=caliper\ maneta\ pastillas
+comment5.target=java.lang.String\ componente(Caliper,\ Maneta,\ PastillasFreno)
+numComments=6

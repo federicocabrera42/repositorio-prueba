@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Jul 05 17:01:01 CLT 2026
+comment0.target=SistemaRodamientoDelantero
+comment1.params=liquidoTubeless
+comment1.target=SistemaRodamientoDelantero(java.lang.String)
+comment2.target=java.lang.String compatibleMD()
+comment3.target=void rueda()
+comment4.target=java.lang.String ruedo()
+comment5.target=java.lang.String componentes()
+numComments=6

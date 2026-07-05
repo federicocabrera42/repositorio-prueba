@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sun Jul 05 16:35:38 CLT 2026
+comment0.target=SistemaRodamientoTracero
+comment1.params=liquidoTubeless
+comment1.target=SistemaRodamientoTracero(java.lang.String)
+comment2.target=java.lang.String compatibleMDP()
+comment3.target=int getTama\u00F1oAros()
+comment4.target=void rueda()
+comment5.target=java.lang.String ruedo()
+comment6.target=java.lang.String componentes()
+numComments=7

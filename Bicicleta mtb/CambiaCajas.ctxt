@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CambiaCajas
+comment1.params=marca\ modelo\ velocidades\ tipoEstabilizador\ poleas
+comment1.target=CambiaCajas(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ estabilizador()
+comment3.params=comoEsta
+comment3.target=java.lang.String\ activarShadowRDplus(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ Especificaciones()
+numComments=5
